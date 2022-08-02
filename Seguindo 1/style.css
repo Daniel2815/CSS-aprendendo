@@ -1,0 +1,53 @@
+.text-center{
+    text-align: center
+
+
+}
+
+h1{
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+h2{
+    font-family: 'Open Sans', sans-serif;
+
+
+}
+
+span{
+    color: blue;
+
+
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+div{
+    background-color: blue;
+    color: white;
+
+}
+
+ol{
+    
+    text-decoration-line: underline;
+
+}
+
+.Background-black{
+    color: white;
+    background-color: black;
+
+
+}
+
+.Background-black{
+    text-align: center
+
+
+
+}
